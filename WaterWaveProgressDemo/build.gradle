@@ -29,6 +29,7 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.2.0'
     testCompile 'junit:junit:4.12'
-   // compile project(':WaterWaveProgress')
-    compile 'com.github.tu3423:waterWaveView:5.0'
+   //compile project(':WaterWaveProgress')
+    compile 'com.github.tu3423:waterWaveView:latest.release'
+    //compile 'com.github.tu3423:waterWaveView:5.0'
 }
